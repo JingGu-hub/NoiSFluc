@@ -8,7 +8,7 @@ such as spatiotemporal dependencies and data fluctuations. To bridge this gap, w
 Specifically, NoiSFluc incorporates TempoResiScale, a noise-resistant, multi-scale spatiotemporal feature extractor that captures multivariate time series features while minimizing the influence of noisy labels. 
 Additionally, we introduce a delayed cross-entropy (DCE) loss function, which selectively filters clean samples from noisy data to enhance classification model training. 
 Furthermore, we propose ensemble label cumulation (EnLabelc), a sample relabeling technique that corrects noisy labels and reintegrates them into the training process. Experimental results demonstrate that NoiSFluc outperforms 
-state-of-the-art methods by an average of 15\% across multiple benchmark time series datasets, underscoring its effectiveness and robustness. 
+state-of-the-art methods by an average of 15% across multiple benchmark time series datasets, underscoring its effectiveness and robustness. 
 
 <h2>Datasets</h2>
 <h3>UEA 30 archive time series datasets</h3>
