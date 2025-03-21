@@ -13,12 +13,12 @@ state-of-the-art methods by an average of 15% across multiple benchmark time ser
 <h2>Datasets</h2>
 <h3>UEA 30 archive time series datasets</h3>
 
-* <a href="URL" target="https://www.timeseriesclassification.com/dataset.php">UEA 30 archive</a>
+* <a href="https://www.timeseriesclassification.com/dataset.php" target="_blank">UEA 30 archive</a>
 
 <h3>Two individual large time series datasets</h3>
 
-* <a href="URL" target="http://archive.ics.uci.edu/ml">HAR dataset</a>
-* <a href="URL" target="https://www.mustafabaydogan.com/">UWave dataset</a>
+* <a href="http://archive.ics.uci.edu/ml" target="_blank">HAR dataset</a>
+* <a href="https://www.mustafabaydogan.com/" target="_blank">UWave dataset</a>
 
 <h2>Running NoiSFluc on benchmark datasets</h2>
 Here is an example:
