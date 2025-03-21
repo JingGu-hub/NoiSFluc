@@ -18,7 +18,7 @@ state-of-the-art methods by an average of 15% across multiple benchmark time ser
 <h3>Two individual large time series datasets</h3>
 
 * <a href="http://archive.ics.uci.edu/ml" target="_blank">HAR dataset</a>
-* <a href="https://www.mustafabaydogan.com/" target="_blank">UWave dataset</a>
+* <a href="https://www.mustafabaydogan.com/research/time-series-data-mining/symbolic-representations-for-multivariate-time-series-classification-smts/" target="_blank">UWave dataset</a>
 
 <h2>Running NoiSFluc on benchmark datasets</h2>
 Here is an example:
